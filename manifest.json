@@ -1,0 +1,22 @@
+{
+    "manifest_version":3,
+"name":"Stop Watch",
+"version":"1.0.0",
+"description":"Hello Chrome this  is a chrome extension",
+"icons":{
+    "16":"icons/clock.png",
+    "48":"icons/clock.png",
+    "128":"icons/clock.png"
+},
+"action":{
+    "default_icon":{
+        "16":"icons/clock.png",
+        "24":"icons/clock.png",
+        "32":"icons/clock.png"
+    },
+    "default_title":"Stopwatch Extension Action Title",
+"default_popup":"popup.html"
+
+
+}
+}
