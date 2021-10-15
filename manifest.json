@@ -16,7 +16,11 @@
     },
     "default_title":"Stopwatch Extension Action Title",
 "default_popup":"popup.html"
-
-
+},
+"options_page":"options.html",
+"permissions":["storage","alarms"],
+"background":{
+"service_worker":"background.js"
 }
+
 }
